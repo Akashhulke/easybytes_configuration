@@ -2,7 +2,7 @@ build:
   version: "3.1"
 
 loans:
-  message: "Welcome to EazyBank LOANS related local APIs "
+  message: "Welcome to EazyBank LOANS related LOCAL APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
