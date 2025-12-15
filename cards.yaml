@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EazyBank CARDS related local APIs "
+  message: "Welcome to EazyBank CARDS related LOCAL CHANGE AFTER BUS REFRESH APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
